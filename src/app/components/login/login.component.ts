@@ -23,7 +23,7 @@ export class LoginComponent {
   ingresar() {
     const usuario = this.form.value.usuario;
     const password = this.form.value.password;
-    if(usuario === 'miguel'  && password === '123') {
+    if(usuario === 'admin'  && password === 'admin') {
       //Redireccionamos al dashBoard
       this.fakeLoading();
 
