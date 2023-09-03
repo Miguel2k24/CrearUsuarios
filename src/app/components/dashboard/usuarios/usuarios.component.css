@@ -1,0 +1,28 @@
+
+.tolbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+table {
+    width: 100%;
+  }
+  th{
+    width: 20%;
+  }
+  
+  .mat-mdc-form-field {
+    margin-top: 10px;
+    font-size: 14px;
+    width: 100%;
+  }
+
+  .ancho{
+    width: 8%;
+  }
+
+.boton{
+    height: 50px;
+}
