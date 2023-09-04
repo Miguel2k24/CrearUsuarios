@@ -21,7 +21,7 @@ import { CrearUsuarioComponent } from './usuarios/crear-usuario/crear-usuario.co
     NavbarComponent,
     UsuariosComponent,
     ReportesComponent,
-    CrearUsuarioComponent
+    CrearUsuarioComponent,
   ],
   imports: [
     CommonModule,
